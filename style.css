@@ -1,0 +1,15 @@
+body {
+  font-size: 15pt;
+  background-color: #000000;
+}
+.histoire{
+  color: #FFFFFF;
+  margin: 35px;
+}
+.name{
+  color: #FFFFFF;
+}
+.dev{
+  color: #FFFFFF;
+  text-align: center;
+}
